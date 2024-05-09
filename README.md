@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FCFF6A&background=000000B6&center=true&multiline=true&random=false&width=486&height=120&lines=Hello+There%2C+;Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=079700&center=true&multiline=true&random=false&width=486&height=120&lines=Hello+There%2C+;Welcome+to+my+profile)](https://git.io/typing-svg)
